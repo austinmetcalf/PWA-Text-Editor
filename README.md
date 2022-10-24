@@ -16,5 +16,5 @@ The purpose of this project is to create notes with or without internet access s
 - Node.js
 - Express.js
 
-## Author
-https://github.com/austinmetcalf. starting code of this project provided by educator.
+## Author/ credit
+https://github.com/austinmetcalf. starting code of this project provided by educator. Edits were made by myself with tutor assistance.
