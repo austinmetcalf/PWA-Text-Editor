@@ -18,3 +18,5 @@ The purpose of this project is to create notes with or without internet access s
 
 ## Author/ credit
 https://github.com/austinmetcalf. starting code of this project provided by educator. Edits were made by myself with tutor assistance.
+## Deployed application
+https://pwa-text-editor11.herokuapp.com/
