@@ -2,7 +2,8 @@
 The purpose of this project is to create notes with or without internet access so that I can retrive them for later use.
 
 ## Example
-![Screen Shot 2022-10-24 at 11 39 59 AM](https://user-images.githubusercontent.com/107006987/197590784-394cd865-114c-4619-9ac2-c1da290473a6.png)
+![Screen Shot 2022-10-25 at 10 11 07 PM](https://user-images.githubusercontent.com/107006987/197932673-bf2922fa-f95a-4378-b55b-c60b75bb96fb.png)
+
 
 ## Installation
 - Use npm i to install dependencies
